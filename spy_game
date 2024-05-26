@@ -1,0 +1,10 @@
+def spy_game(nums):
+    code = [0,0,7,'x']
+    for num in nums:
+        if num == code[0]:
+            code.pop(0)
+    if len(code)==1:
+        return True
+    else:
+        return False
+spy_game([1,2,3,4,0,0,7])
