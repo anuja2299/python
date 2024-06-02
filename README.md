@@ -7,3 +7,8 @@ Pangrams -> Python function to check whether a string is pangram or not.
 spy_game Write a function that takes in a list of integers and returns True if it contains 007 in order.
 
 game_ball -> hiding a ball inside a cup. And a user is used to guess the cup having the ball. If he/she guesses correct cup then he/she won the game else failed.
+
+Created a Tic Tac Toe game.
+2 players should be able to play the game (both sitting at the same computer).
+The board should be printed out every time a player makes a move.
+You should be able to accept input of the player position and then place a symbol on the board.
